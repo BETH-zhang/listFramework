@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./assets/index.less"],"names":[],"mappings":"AAEA;EACE;CADD","file":"examples/index.css","sourcesContent":["@listFrameworkPrefixCls: list-framework;\n\n.@{listFrameworkPrefixCls} {\n  font-size: 40px;\n}\n\n\n// WEBPACK FOOTER //\n// ./assets/index.less"],"sourceRoot":""}
