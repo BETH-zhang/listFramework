@@ -53,10 +53,7 @@ React antd list-framework
 |footer|表格尾部|Function(currentPageData)	||
 |indentSize|展示树形数据时，每层缩进的宽度，以 px 为单位|number|15|
 |loading|loading|boolean|object (更多)	|false|
-|locale|默认文案设置，目前包括排序、过滤、空数据文案|object|filterConfirm: '确定' 
-filterReset: '重置' 
-emptyText: '暂无数据' 
-默认值|
+|locale|默认文案设置，目前包括排序、过滤、空数据文案|object|filterConfirm: '确定' filterReset: '重置' emptyText: '暂无数据' 默认值|
 |pagination|分页器，配置项参考 pagination，设为 false 时不展示和进行分页|object||
 |rowClassName|表格行的类名|Function(record, index):string	||
 |rowKey|表格行 key 的取值，可以是字符串或一个函数|string|Function(record):string	|'key'|

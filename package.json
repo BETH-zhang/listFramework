@@ -1,5 +1,5 @@
 {
-  "name": "list-framework",
+  "name": "rc-list-framework",
   "version": "1.0.1",
   "description": "基于antd的列表业务组件",
   "keywords": [
@@ -21,7 +21,7 @@
   "config": {
     "prot": 8000,
     "entry": {
-      "rc-listframework": [
+      "rc-list-framework": [
         "./assets/index.less",
         "./src/index.js"
       ]
